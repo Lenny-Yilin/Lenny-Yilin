@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Lenny-Yilin)
 ### Description 👋
 
-📚 I’m currently senior student in CUHKSZ, majoring in CSE
+📖 I’m currently Year3 student in CUHKSZ, majoring in Bioinformatic-Multiscale Biomolecular Simulation and Modeling
 
 💡 My research interest is about: GNN, Data Mining, LLM, MLLM
 
@@ -25,7 +25,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
 
 <img width="400px" align="right" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/c5a4a833-7549-460e-bfe8-265be8672cfa.svg" />
 
@@ -35,8 +34,7 @@
 
 ### Last Year Coding Activity
 
-<img width="400px" src="https://wakatime.com/share/@018b2d56-3f39-4069-992e-2ad50513ffd3/4fcca31e-c596-4844-b8c9-d5ad9d700275.svg" />
-<!--
+
 **Lenny-Yilin/Lenny-Yilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
