@@ -4,12 +4,16 @@
 
 ![](https://komarev.com/ghpvc/?username=Lenny-Yilin)
 ### About Me 👋
-I’m currently Year3 student in CUHKSZ, majoring in Bioinformatics
+I’m currently Year3 student in CUHKSZ, majoring in Bioinformatics-Multiscale Biomolecular Simulation and Modeling
+
+
 #### 💡Interests:
-I'm passionate about multiscale biomolecular Simulation and modeling
+I am passionate about molecular dynamics and the integration of deep learning (DL) and machine learning (ML) into this field.
+Additionally, I am actively learning about generative AI, aiming to contribute to the development of more accurate and efficient models for predicting molecular behavior, ultimately leading to breakthroughs in pharmaceutical research.
 
-
-📫 How to reach me: [linney.yilin@gmail.com](mailto:linney.yilin@gmail.com)
+####🚀 Commitment:
+I am dedicated to advancing the field of computational chemistry through interdisciplinary research and innovative approaches, contributing to the development of effective antimicrobial agents and novel drug discoveries.
+📫 How to reach me: [yilinguo@link.cuhk.edu.cn](mailto:yilinguo@link.cuhk.edu.cn)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
