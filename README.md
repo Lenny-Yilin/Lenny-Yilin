@@ -14,6 +14,7 @@ Additionally, I am actively learning about generative AI, aiming to contribute t
 I am dedicated to advancing the field of computational chemistry through interdisciplinary research and innovative approaches, contributing to the development of effective antimicrobial agents and novel drug discoveries.
 
 📫 How to reach me: [yilinguo@link.cuhk.edu.cn](mailto:yilinguo@link.cuhk.edu.cn)
+
 📚 I am seeking a PhD program that will allow me to further explore my interests in computational chemistry and the integration of cutting-edge AI methods. 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -31,12 +32,14 @@ I am dedicated to advancing the field of computational chemistry through interdi
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=F37626)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+
+
+### Software
 ![GROMACS](https://img.shields.io/badge/-GROMACS-333333?style=flat&logo=gromacs&logoColor=white)
 ![Amber](https://img.shields.io/badge/-Amber-333333?style=flat&logo=amber&logoColor=white)
 ![Gaussian](https://img.shields.io/badge/-Gaussian-333333?style=flat&logo=gaussian&logoColor=white)
 ![VMD](https://img.shields.io/badge/-VMD-333333?style=flat&logo=vmd&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/-PyMOL-333333?style=flat&logo=pymol&logoColor=white)
-
 
 
 
