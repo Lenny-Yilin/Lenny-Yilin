@@ -8,7 +8,7 @@ I’m currently Year3 student in CUHKSZ, majoring in Bioinformatics-Multiscale B
 
 #### 💡Interests:
 I am passionate about molecular dynamics and the integration of deep learning (DL) and machine learning (ML) into this field.\
-Additionally, I am actively learning about generative AI, aiming to contribute to the development of more accurate and efficient models for predicting molecular behavior, ultimately leading to breakthroughs in pharmaceutical research.\
+Additionally, I am actively learning about generative AI, aiming to contribute to the development of more accurate and efficient models for predicting molecular behavior, ultimately leading to breakthroughs in pharmaceutical research.
 
 #### 🚀 Commitment:
 I am dedicated to advancing the field of computational chemistry through interdisciplinary research and innovative approaches, contributing to the development of effective antimicrobial agents and novel drug discoveries.
