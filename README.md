@@ -1,12 +1,13 @@
 
-<img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" />
+<!-- - <img width="400px" style="margin: 5px 5px 10px 10px; border-radius: 15px;" align="right" alt="Assets GIF" src="assets/giphy.gif" /> -->
+
 
 ![](https://komarev.com/ghpvc/?username=Lenny-Yilin)
-### Description 👋
+### About Me 👋
+I’m currently Year3 student in CUHKSZ, majoring in Bioinformatics
+#### 💡Interests:
+I'm passionate about multiscale biomolecular Simulation and modeling
 
-📖 I’m currently Year3 student in CUHKSZ, majoring in Bioinformatic-Multiscale Biomolecular Simulation and Modeling
-
-💡 My research interest is about: GNN, Data Mining, LLM, MLLM
 
 📫 How to reach me: [linney.yilin@gmail.com](mailto:linney.yilin@gmail.com)
 <!-- - 👯 I’m looking to collaborate on ... -->
